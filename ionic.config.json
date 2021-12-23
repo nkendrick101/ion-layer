@@ -1,0 +1,7 @@
+{
+  "name": "layer0-ionic-react-example",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

@@ -1,0 +1,6 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "layer0-ionic-react-example",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
